@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there, I'm Vani B N! 👋
 
-<!--
-**VaniTech1/VaniTech1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+I am a passionate data analyst and software developer with a background in Computer Science Engineering. I enjoy transforming raw data into actionable insights and building impactful applications.
 
-Here are some ideas to get you started:
+## 💼 Skills
+- **Data Analytics:** Python (Pandas, NumPy, Matplotlib), SQL, Excel, Power BI, Tableau
+- **Programming:** Python, JavaScript, HTML, CSS
+- **Databases:** MySQL
+- **Tools:**  GitHub, Jupyter Notebooks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+Here are some of my key projects:
+
+- [Seattle Housing Analysis](https://github.com/VaniTech1/Seattle-Housing-Analysis) — Analysis of housing price trends in Seattle using Python and visualization tools.
+- [Sales Analysis](https://github.com/VaniTech1/Sales-Analysis) — Sales data exploration and dashboard creation to identify revenue trends.
+
+## 📫 How to reach me
+- Email: vanibn36@gmail.com
+- LinkedIn: [linkedin.com/in/vani-b-n](https://linkedin.com/in/vani-b-n)
+
+---
+
+*Thanks for visiting my profile! Feel free to connect or explore my projects.*
