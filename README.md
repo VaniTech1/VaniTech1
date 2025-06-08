@@ -12,8 +12,8 @@ I am a passionate data analyst and software developer with a background in Compu
 ## 🚀 Projects
 Here are some of my key projects:
 
-- [Seattle Housing Analysis](https://github.com/VaniTech1/Seattle-Housing-Analysis) — Analysis of housing price trends in Seattle using Python and visualization tools.
-- [Sales Analysis](https://github.com/VaniTech1/Sales-Analysis) — Sales data exploration and dashboard creation to identify revenue trends.
+- **Seattle Housing Analysis** — Analysis of housing price trends in Seattle using Python and visualization tools.
+- **Sales Analysis**— Sales data exploration and dashboard creation to identify revenue trends.
 
 ## 📫 How to reach me
 - Email: vanibn36@gmail.com
