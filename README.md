@@ -1,13 +1,14 @@
 # Hi there, I'm Vani B N! 👋
 
 ## 👩‍💻 About Me
-I am a passionate data analyst and software developer with a background in Computer Science Engineering. I enjoy transforming raw data into actionable insights and building impactful applications.
+I am a passionate data professional with a background in Computer Science Engineering, skilled in both data analytics and machine learning. I enjoy exploring data through cleaning, visualization, and statistical analysis, and also build predictive models using machine learning to solve real-world problems. My work reflects a strong focus on turning data into impactful solutions.
 
 ## 💼 Skills
-- **Data Analytics:** Python (Pandas, NumPy, Matplotlib), SQL, Excel, Power BI, Tableau
-- **Programming:** Python, JavaScript, HTML, CSS
-- **Databases:** MySQL
-- **Tools:**  GitHub, Jupyter Notebooks
+- **Tools**: Excel, Power BI, Tableau, SQL  
+- **Programming**: Python  
+- **Platforms**: GitHub, Jupyter Notebook, AWS (basic)  
+- **Skills**: Data Cleaning, EDA, Data Visualization, Dashboard Building, Statistics, Machine Learning
+
 
 ## 🚀 Projects
 Here are some of my key projects:
